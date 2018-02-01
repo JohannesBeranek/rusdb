@@ -1,0 +1,4 @@
+{
+    "rust.testArgs": ["--lib"],
+    "rust.buildArgs": ["--lib"]
+}

@@ -68,11 +68,11 @@ panic = 'unwind'
 
 
 [features]
-default = ["memmap-rs"]
+default = []
 
 
 [dependencies]
-memmap-rs = "0.6.2"
+memmap = "0.6.2"
 
 [lib]
 # The name of a target is the name of the library that will be generated. This
